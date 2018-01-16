@@ -1,5 +1,4 @@
 pubchempy
-subprocess
 requests
 bs4
 pandas
